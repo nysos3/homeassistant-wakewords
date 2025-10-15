@@ -1,8 +1,8 @@
 {
-  "name": "luna",
-  "wake_word": "luna",
+  "name": "hey_luna",
+  "wake_word": "hey_luna",
   "author": "Cody Carrell",
-  "model": "luna.tflite",
+  "model": "hey_luna.tflite",
   "trained_languages": ["en"],
   "type": "micro",
   "version": 2,
